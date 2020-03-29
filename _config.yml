@@ -1,16 +1,16 @@
 # Site settings
-title: Mauricio Urraco
-description: Jekyll Theme Minimal Resume
+title: Viraj Mohile
+description: My online resume
 baseurl: "/resume" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Mauricio Urraco
-user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff. Visit my blog here <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
-user_title: Software Engineer
-email: mauriurraco@gmail.com
-# twitter_username: lorem_ipsum
-# github_username:  lorem_ipsum
+username: Viraj Mohile
+user_description: I am a Junior Year Engineering Undergrad from National Institute of Technology, Surat. I aim to have a career in the fireld of Finance. My interests lie in the use of Data Science for Portfolio Optimization. I have a strong statistical aptitude and an ardent passion for deriving fascinating insights out of whatever data is available. Visit my blog here <a href="https://high-in-entropy.github.io/mundana-theme-jekyll/" target="_blank">https://high-in-entropy.github.io/mundana-theme-jekyll/</a>
+user_title: Junior, NIT Surat
+email: viraj.mohile2013@gmail.com
+twitter_username: https://twitter.com/high_in_entropy
+github_username:  https://github.com/high-in-entropy
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
